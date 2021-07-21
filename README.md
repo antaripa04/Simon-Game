@@ -9,6 +9,5 @@ Core:
 - CSS Modules
 - HTML5
 - jQuery
-- Bootstrap
 
 ```
